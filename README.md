@@ -13,25 +13,27 @@
 
 ---
 
+### 🛠️ Stack Tecnológico
+
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" /><br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /><br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /><br>GitHub
     </td>
   </tr>
 </table>
@@ -39,16 +41,6 @@
 ## 🚀 Sobre mí
 
 Apasionado desarrollador full stack con experiencia construyendo aplicaciones web y móviles. Me encanta crear soluciones eficientes y bien estructuradas, desde APIs robustas hasta interfaces intuitivas.
-
-## 🛠️ Stack Tecnológico
-
-| Área | Tecnologías |
-|------|-------------|
-| **Frontend** | TypeScript, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, PHP, Python, PocketBase |
-| **Mobile** | Flutter, Kotlin |
-| **Bases de Datos** | PostgreSQL, MySQL, SQLite |
-| **DevOps** | Docker, GitHub Actions |
 
 ## 📌 Proyectos Destacados
 
@@ -116,27 +108,25 @@ Apasionado desarrollador full stack con experiencia construyendo aplicaciones we
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardmalca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmalca&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=richardmalca&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=richardmalca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmalca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
 
-## 🌐 Encuéntrame en
+## 📫 Contacto
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmalcac16_1@unc.edu.pe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dark-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://richardmalca.vercel.app)
 
-</div>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=richardmalca&style=for-the-badge&color=00C9FF" alt="Profile views" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=richardmalca&style=for-the-badge&color=00C9FF" alt="Profile views" />
 </div>
 
 <div align="center">
