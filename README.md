@@ -105,12 +105,12 @@ Apasionado desarrollador full stack con experiencia construyendo aplicaciones we
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=richardmalca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmalca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Repos](https://img.shields.io/badge/dynamic/json?color=00C9FF&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frichardmalca)
+![Followers](https://img.shields.io/badge/dynamic/json?color=92FE9D&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frichardmalca)
 
 </div>
 
