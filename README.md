@@ -1,17 +1,48 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Richard Malca" src="assets/banner-light.svg" width="100%">
-</picture>
+# Richard Malca
 
-**Full Stack Developer** · Cajamarca, Perú
+**Full Stack Developer** · Systems Engineering graduate · Cajamarca, Peru
 
-Bachiller en Ingeniería de Sistemas por la Universidad Nacional de Cajamarca.
-Construyo soluciones web y móviles que generan impacto: aplicaciones completas, bases de datos optimizadas y proyectos con metodologías ágiles.
+## About
 
-### Stack
+I hold a Bachelor's degree in Systems Engineering from the Universidad Nacional de Cajamarca. I build web and mobile products from the database to the interface: complete applications, optimized data models and projects run with agile methodologies.
 
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `PHP` `Laravel` `Kotlin` `Flutter` `Dart` `PostgreSQL` `MySQL` `Docker` `Git`
+I like working in teams, leading when needed, and I keep learning to bring real value to every project. I am available for projects in Cajamarca and remotely.
 
-### Contacto
+## What I do
 
-[Portfolio](https://richardmalca.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/richardmalca) &nbsp;·&nbsp; [Correo](mailto:malcarichard6@gmail.com) &nbsp;·&nbsp; [WhatsApp](https://wa.me/51936036606)
+- **Web applications** — interfaces with React and Next.js, backends with Laravel and Node.js.
+- **Mobile apps** — cross-platform with Flutter and React Native, native Android with Kotlin and Jetpack Compose.
+- **Data** — relational schemas and query optimization in MySQL and PostgreSQL.
+- **Delivery** — Git workflows, Docker, REST APIs and Scrum.
+
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, HTML, CSS, JavaScript, Tailwind CSS |
+| Backend | Laravel (PHP), Express.js (Node.js), Microservices (Maven) |
+| Mobile | React Native, Flutter, FlutterFlow, Dart, Kotlin, Jetpack Compose, Java (Android Studio) |
+| Databases | MySQL, PostgreSQL, SQLite |
+| Tools and methods | Git, Docker, REST API, Scrum |
+
+## Education
+
+**B.Sc. in Systems Engineering** — Universidad Nacional de Cajamarca, July 2024.
+A five-year program focused on software engineering, databases and project management.
+
+**Certifications**
+
+- Create My First Website — CódigoFacilito, January 2025
+- Professional Excel Update — Skill, Newmont Yanacocha, December 2023
+
+## Highlights
+
+- 1st place at the InnovaTec Hackathon 2024.
+- Participant in the Cajamarca Hackathon 2024.
+
+## Contact
+
+- Portfolio: [richardmalca.vercel.app](https://richardmalca.vercel.app)
+- LinkedIn: [linkedin.com/in/richardmalca](https://linkedin.com/in/richardmalca)
+- Email: [malcarichard6@gmail.com](mailto:malcarichard6@gmail.com)
+- WhatsApp: [+51 936 036 606](https://wa.me/51936036606)
