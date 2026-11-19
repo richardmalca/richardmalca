@@ -1,4 +1,4 @@
-# Richard Malca
+<img alt="Richard Malca, Full Stack Developer" src="assets/banner.svg" width="100%">
 
 **Full Stack Developer** · Systems Engineering graduate · Cajamarca, Peru
 
@@ -17,6 +17,8 @@ I like working in teams, leading when needed, and I keep learning to bring real 
 
 ## Tech stack
 
+<img alt="TypeScript, JavaScript, React, Next.js, Node.js, PHP, Laravel, Kotlin, Flutter, Dart, PostgreSQL, MySQL, Docker and Git" src="assets/stack.svg" width="100%">
+
 | Area | Technologies |
 | --- | --- |
 | Frontend | React, Next.js, HTML, CSS, JavaScript, Tailwind CSS |
@@ -34,11 +36,6 @@ A five-year program focused on software engineering, databases and project manag
 
 - Create My First Website — CódigoFacilito, January 2025
 - Professional Excel Update — Skill, Newmont Yanacocha, December 2023
-
-## Highlights
-
-- 1st place at the InnovaTec Hackathon 2024.
-- Participant in the Cajamarca Hackathon 2024.
 
 ## Contact
 
